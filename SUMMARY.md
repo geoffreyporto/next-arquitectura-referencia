@@ -3,7 +3,7 @@
 * [Antecedentes](antecedentes.md)
 * [Introduccion](README.md)
 * [Capacidades de Soporte](capacidades-de-soporte.md)
-  * [Balanceo de carga](capacidades-de-soporte/balanceador-de-carga.md)
+  * [Servicio de Balanceo de carga](capacidades-de-soporte/balanceador-de-carga.md)
   * [Servicio de Gestión de Releases](capacidades-de-soporte/servicio-de-gestion-de-releases.md)
   * [Servicio de Registro](capacidades-de-soporte/servicio-de-registro.md)
   * [Servicio de Monitoreo & Logs](capacidades-de-soporte/servicio-de-monitoreo-and-logs.md)
@@ -24,4 +24,6 @@
 * [Capacidades Core](capacidades-core.md)
 * [Capacidades de Gobierno](capacidades-de-gobierno.md)
 * [Capacidades de Infraestructura](capacidades-de-infraestructura.md)
+
+
 

@@ -1,7 +1,9 @@
 # Summary
 
 * [Antecedentes](antecedentes.md)
-* Visión
+* [Visión](vision.md)
+* [Oportunidades y retos](oportunidades-y-retos.md)
+* [Lo que debes de saber](lo-que-debes-de-saber.md)
 * [Introduccion](README.md)
 * [Capacidades de Soporte](capacidades-de-soporte.md)
   * [Servicio de Balanceo de carga](capacidades-de-soporte/servicio-de-balanceo-de-carga.md)

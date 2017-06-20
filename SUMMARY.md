@@ -23,6 +23,7 @@
   * [Servicio de Atención al Cliente](capacidades-de-soporte/servicio-de-atencion-al-cliente.md)
   * [Servicio de OCR](capacidades-de-soporte/servicio-de-ocr.md)
   * [Servicio de Geolocalización](capacidades-de-soporte/servicio-de-geolocalizacion.md)
+  * Servicio de Inventario \(CMDB\)
 * [Capacidades de Desarrollo](capacidades-de-desarrollo.md)
   * [Kit de Desarrollo Core Bancario](capacidades-de-desarrollo/kit-de-desarrollo-core-bancario.md)
   * [Kit de Desarrollo Core Aplicativo](capacidades-de-desarrollo/kit-de-desarrollo-core-aplicativo.md)

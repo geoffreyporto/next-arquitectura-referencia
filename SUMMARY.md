@@ -18,7 +18,7 @@
   * [Servicio de Inteligencia Artificial](capacidades-de-soporte/servicio-de-inteligencia-artificial.md)
   * [Servicio de Lago de Datos](capacidades-de-soporte/servicio-de-lago-de-datos.md)
   * [Herramientas de Pruebas](capacidades-de-soporte/herramientas-de-pruebas.md)
-  * [Servicio de Almacenamiento de D](capacidades-de-soporte/servicio-de-almacenamiento-de-contenido-ecm.md)atos
+  * [Servicio de Almacenamiento de Datos](capacidades-de-soporte/servicio-de-almacenamiento-de-datos.md)atos
   * [Servicio de Video Conferencia](capacidades-de-soporte/servicio-de-video-conferencia.md)
   * [Servicio de Atención al Cliente](capacidades-de-soporte/servicio-de-atencion-al-cliente.md)
   * Servicio de OCR

@@ -24,37 +24,23 @@
   * [Servicio de OCR](capacidades-de-soporte/servicio-de-ocr.md)
   * Servicio de Geolocalización
 * [Capacidades de Desarrollo](capacidades-de-desarrollo.md)
-  * Kit de Desarrollo Core Bancario
-
-  * Kit de Desarrollo Core Aplicativo
-
-  * Lenguajes & Frameworks
-
-  * Seguridad
-
-  * SDKs/Librerías
-
-  * Protocolos de comunicación
-
-  * Middleware
-
-  * Debugger/Profiler
-
-  * Buildding
-
-  * Gestor de Paquetes
-
-  * Pruebas
-
-  * Web Services & Apis
-
-  * Datos \(I/O\)
-
-  * Despliegue
-
-  * Monitoreo & Logs
-
-  * Notificaciones
+  * [Kit de Desarrollo Core Bancario](capacidades-de-desarrollo/kit-de-desarrollo-core-bancario.md)
+  * [Kit de Desarrollo Core Aplicativo](capacidades-de-desarrollo/kit-de-desarrollo-core-aplicativo.md)
+  * [Lenguajes & Frameworks](capacidades-de-desarrollo/lenguajes-and-frameworks.md)
+  * [Seguridad](capacidades-de-desarrollo/seguridad.md)
+  * [SDKs/Librerías](capacidades-de-desarrollo/sdkslibrerias.md)
+  * [Protocolos de comunicación](capacidades-de-desarrollo/protocolos-de-comunicacion.md)
+  * [Middleware](capacidades-de-desarrollo/middleware.md)
+  * [Debugger/Profiler](capacidades-de-desarrollo/debuggerprofiler.md)
+  * [Build](capacidades-de-desarrollo/buildding.md)
+  * [Gestor de Paquetes](capacidades-de-desarrollo/gestor-de-paquetes.md)
+  * [Pruebas](capacidades-de-desarrollo/pruebas.md)
+  * [Web Services & Apis](capacidades-de-desarrollo/web-services-and-apis.md)
+  * [Datos \(I/O\)](capacidades-de-desarrollo/datos-io.md)
+  * [Despliegue](capacidades-de-desarrollo/despliegue.md)
+  * [Monitoreo & Logs](capacidades-de-desarrollo/monitoreo-and-logs.md)
+  * [Notificaciones](capacidades-de-desarrollo/notificaciones.md)
+  * Metricas
 * [Capacidades Core](capacidades-core.md)
 * [Capacidades de Gobierno](capacidades-de-gobierno.md)
 * [Capacidades de Infraestructura](capacidades-de-infraestructura.md)

@@ -1,7 +1,7 @@
 # Summary
 
 * [Antecedentes](antecedentes.md)
-* [Introducción](#)
+
 * [Capacidades de Soporte](capacidades-de-soporte.md)
 * [Capacidades de Desarrollo](capacidades-de-desarrollo.md)
 * [Capacidades Core](capacidades-core.md)

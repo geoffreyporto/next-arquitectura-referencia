@@ -1,44 +1,27 @@
-Summary
+# Summary
 
 * [Antecedentes](antecedentes.md)
 * [Introduccion](README.md)
 * [Capacidades de Soporte](capacidades-de-soporte.md)
-  * Servicio de [Balanceo de carga](capacidades-de-soporte/balanceador-de-carga.md)
-  * Servicio de Gestión de Releases
-
-  * Servicio de Registro
-
-  * Servicio de Monitoreo & Logs
-
-  * Servicio de Seguridad
-
-  * Gestión de Dependencia
-
-  * Servicio de Configuración
-
-  * Servicio de Búsqueda Elástica
-
-  * Servicio de Proxy reverso
-
-  * Servicio de Bus de Datos & Mensajería
-
-  * Servicio de Notificaciones
-
-  * Servicio de Inteligencia Artificial
-
-  * Servicio de Lago de Datos
-
-  * Herramientas de Pruebas
-
-  * Servicio de Almacenamiento de Contenido \(ECM\)
-
-  * Servicio de Video Conferencia
-
-  * Servicio de Atención al Cliente
+  * [Balanceo de carga](capacidades-de-soporte/balanceador-de-carga.md)
+  * [Servicio de Gestión de Releases](capacidades-de-soporte/servicio-de-gestion-de-releases.md)
+  * [Servicio de Registro](capacidades-de-soporte/servicio-de-registro.md)
+  * [Servicio de Monitoreo & Logs](capacidades-de-soporte/servicio-de-monitoreo-and-logs.md)
+  * [Servicio de Seguridad](capacidades-de-soporte/servicio-de-seguridad.md)
+  * [Gestión de Dependencia](capacidades-de-soporte/gestion-de-dependencia.md)
+  * [Servicio de Configuración](capacidades-de-soporte/servicio-de-configuracion.md)
+  * [Servicio de Búsqueda Elástica](capacidades-de-soporte/servicio-de-busqueda-elastica.md)
+  * [Servicio de Proxy reverso](capacidades-de-soporte/servicio-de-proxy-reverso.md)
+  * [Servicio de Bus de Datos & Mensajería](capacidades-de-soporte/servicio-de-bus-de-datos-and-mensajeria.md)
+  * [Servicio de Notificaciones](capacidades-de-soporte/servicio-de-notificaciones.md)
+  * [Servicio de Inteligencia Artificial](capacidades-de-soporte/servicio-de-inteligencia-artificial.md)
+  * [Servicio de Lago de Datos](capacidades-de-soporte/servicio-de-lago-de-datos.md)
+  * [Herramientas de Pruebas](capacidades-de-soporte/herramientas-de-pruebas.md)
+  * [Servicio de Almacenamiento de Contenido \(ECM\)](capacidades-de-soporte/servicio-de-almacenamiento-de-contenido-ecm.md)
+  * [Servicio de Video Conferencia](capacidades-de-soporte/servicio-de-video-conferencia.md)
+  * [Servicio de Atención al Cliente](capacidades-de-soporte/servicio-de-atencion-al-cliente.md)
 * [Capacidades de Desarrollo](capacidades-de-desarrollo.md)
 * [Capacidades Core](capacidades-core.md)
 * [Capacidades de Gobierno](capacidades-de-gobierno.md)
 * [Capacidades de Infraestructura](capacidades-de-infraestructura.md)
-
-
 

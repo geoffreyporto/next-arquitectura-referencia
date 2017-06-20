@@ -72,7 +72,11 @@
   * [Plataforma como Servicio \(PaaS\)](capacidades-de-infraestructura/plataforma-como-servicio-paas.md)
   * [Dockers y Máquinas Virtuales](capacidades-de-infraestructura/dockers-y-maquinas-virtuales.md)
   * [Control de Cluster, DRP y Provisionamiento](capacidades-de-infraestructura/control-de-cluster-drp-y-provisionamiento.md)
-  * [Gestión de S-SDLC](capacidades-de-infraestructura/gestion-de-s-sdlc.md)
+  * [Gestión de S-SDLC](capacidades-de-infraestructura/gestion-de-s-sdlc.md)[Capacidades de Gobierno](#)
+
+* Referencias biograficas
+  * Tecnologias
+  * Patrones
 
 
 

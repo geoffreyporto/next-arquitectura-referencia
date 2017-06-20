@@ -40,10 +40,8 @@
   * [Despliegue](capacidades-de-desarrollo/despliegue.md)
   * [Monitoreo & Logs](capacidades-de-desarrollo/monitoreo-and-logs.md)
   * [Notificaciones](capacidades-de-desarrollo/notificaciones.md)
-  * Metricas
+  * [Metricas](capacidades-de-desarrollo/metricas.md)
 * [Capacidades Core](capacidades-core.md)
 * [Capacidades de Gobierno](capacidades-de-gobierno.md)
 * [Capacidades de Infraestructura](capacidades-de-infraestructura.md)
-
-
 

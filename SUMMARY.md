@@ -42,6 +42,60 @@
   * [Notificaciones](capacidades-de-desarrollo/notificaciones.md)
   * [Metricas](capacidades-de-desarrollo/metricas.md)
 * [Capacidades Core](capacidades-core.md)
+
+  * Interfaces de usuario
+
+  * Servicio de API Gateway
+
+  * Servicio de Seguridad
+
+  * Servicio de Acceso a Datos APIs/EndPoints
+
+  * Definición de Capacidades de Negocio
+
+  * Servicio de Event Sourcing y CQRS
+
+  * Almacenamiento & Cache de datos
+
+  * Protocolos de comunicación
+
 * [Capacidades de Gobierno](capacidades-de-gobierno.md)
+
+  * Cultura y Procesos DevOps/Lean/Agile
+
+  * Metodologia Desarrollo Seguro
+
+  * Gobierno de Datos
+
+  * Gobierno de Seguridad
+
+  * Herramientas DevOps/Lean/Agile
+
+  * Repositorios de Microservicios
+
+  * Repositorios de Dockers
+
+  * Documentación de Apis, SDK, Libs & Microservicios
+
+  * Portal del Desarrollador DevOps
+
+  * Wiki normativo
+
+  * Documento de Arquitectura de Referencia Tecnológica
+
+  * Auditoria & Regulaciones
+
 * [Capacidades de Infraestructura](capacidades-de-infraestructura.md)
+
+  * Infraestructura como Servicio \(IaaS\)
+
+  * Plataforma como Servicio \(PaaS\)
+
+  * Dockers y Máquinas Virtuales
+
+  * Control de Cluster, DRP y Provisionamiento
+
+  * Gestión de S-SDLC
+
+
 

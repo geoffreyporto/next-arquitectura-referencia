@@ -1,3 +1,80 @@
 {
+  "title": "Arquitectura de Referencia de Banregio",
+  "author": "Geoffrey Porto",
+  "language": "es",
+  "plugins": ["exercises","youtube","mathjax", "katex", "-highlight", "sunlight-highlighter",
+    "underline", "swimlanes-io", "terminal", "github", "analytics","googledocs", "-autoconver", "github-embed", "theme-api"],
 
-}
+
+    "pluginsConfig": {
+
+      "fontsettings": {
+        "theme": "white",
+        "family": "sans",
+        "size": 2
+      },
+      "mathjax":{
+        "forceSVG": true
+      },
+      "youtubex": {
+        "embedDescription": {
+          "en": "Watch this video!",
+          "de": "Eingebettetes video:"
+        }
+      },
+      "terminal": {
+        "copyButtons": true,
+        "fade": false,
+        "style": "black"
+      },
+      "github": {
+        "url": "https://github.com/geoffreyporto/ignite"
+      },
+
+
+      "analytics": {
+        "context": [
+
+          {
+            "vendor": "google",
+            "token": "UA-100805087-1",
+            "base": "http://localhost:4000"
+          },
+          {
+            "vendor": "google",
+            "token": "UA-100805087-2",
+            "base": "http://www.geoffreyporto.com"
+          }
+        ]
+      },
+
+      "googledocs": {
+        "rm": "full",
+        "frameborder": "0",
+        "width": "100%",
+        "height": "500px",
+        "noembed": "new window"
+      },
+
+      "theme-api": {
+        "split": true,
+        "languages": [
+          {
+            "lang": "js",
+            "name": "JavaScript",
+            "default": true
+          },
+          {
+            "lang": "go",
+            "name": "Go"
+          }
+        ]
+      }
+
+
+    }
+
+
+
+
+  }

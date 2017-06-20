@@ -23,7 +23,7 @@
   * [Servicio de Atención al Cliente](capacidades-de-soporte/servicio-de-atencion-al-cliente.md)
   * [Servicio de OCR](capacidades-de-soporte/servicio-de-ocr.md)
   * [Servicio de Geolocalización](capacidades-de-soporte/servicio-de-geolocalizacion.md)
-  * Servicio de Inventario \(CMDB\)
+  * [Servicio de Inventario \(CMDB\)](capacidades-de-soporte/servicio-de-inventario-cmdb.md)
 * [Capacidades de Desarrollo](capacidades-de-desarrollo.md)
   * [Kit de Desarrollo Core Bancario](capacidades-de-desarrollo/kit-de-desarrollo-core-bancario.md)
   * [Kit de Desarrollo Core Aplicativo](capacidades-de-desarrollo/kit-de-desarrollo-core-aplicativo.md)
@@ -70,6 +70,4 @@
   * [Dockers y Máquinas Virtuales](capacidades-de-infraestructura/dockers-y-maquinas-virtuales.md)
   * [Control de Cluster, DRP y Provisionamiento](capacidades-de-infraestructura/control-de-cluster-drp-y-provisionamiento.md)
   * [Gestión de S-SDLC](capacidades-de-infraestructura/gestion-de-s-sdlc.md)
-
-
 

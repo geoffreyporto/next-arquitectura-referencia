@@ -8,7 +8,7 @@
   * [Servicio de Registro](capacidades-de-soporte/servicio-de-registro.md)
   * [Servicio de Monitoreo & Logs](capacidades-de-soporte/servicio-de-monitoreo-and-logs.md)
   * [Servicio de Seguridad](capacidades-de-soporte/servicio-de-seguridad.md)
-  * [Gestión de Dependencia](capacidades-de-soporte/gestion-de-dependencia.md)
+  * [Servicio de Gestión de Dependencia](capacidades-de-soporte/servicio-de-gestion-de-dependencia.md)
   * [Servicio de Configuración](capacidades-de-soporte/servicio-de-configuracion.md)
   * [Servicio de Búsqueda Elástica](capacidades-de-soporte/servicio-de-busqueda-elastica.md)
   * [Servicio de Proxy reverso](capacidades-de-soporte/servicio-de-proxy-reverso.md)

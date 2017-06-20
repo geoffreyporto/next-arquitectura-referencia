@@ -4,7 +4,7 @@
 * [Introduccion](README.md)
 * [Capacidades de Soporte](capacidades-de-soporte.md)
   * [Servicio de Balanceo de carga](capacidades-de-soporte/servicio-de-balanceo-de-carga.md)
-  * Servicio de Descubierta
+  * [Servicio de Descubierta](capacidades-de-soporte/servicio-de-descubierta.md)
   * [Servicio de Gestión de Releases](capacidades-de-soporte/servicio-de-gestion-de-releases.md)
   * [Servicio de Registro](capacidades-de-soporte/servicio-de-registro.md)
   * [Servicio de Monitoreo & Logs](capacidades-de-soporte/servicio-de-monitoreo-and-logs.md)
@@ -18,14 +18,12 @@
   * [Servicio de Inteligencia Artificial](capacidades-de-soporte/servicio-de-inteligencia-artificial.md)
   * [Servicio de Lago de Datos](capacidades-de-soporte/servicio-de-lago-de-datos.md)
   * [Herramientas de Pruebas](capacidades-de-soporte/herramientas-de-pruebas.md)
-  * [Servicio de Almacenamiento de Datos](capacidades-de-soporte/servicio-de-almacenamiento-de-datos.md)atos
+  * [Servicio de Almacenamiento de Datos](capacidades-de-soporte/servicio-de-almacenamiento-de-datos.md)
   * [Servicio de Video Conferencia](capacidades-de-soporte/servicio-de-video-conferencia.md)
   * [Servicio de Atención al Cliente](capacidades-de-soporte/servicio-de-atencion-al-cliente.md)
-  * Servicio de OCR
+  * [Servicio de OCR](capacidades-de-soporte/servicio-de-ocr.md)
 * [Capacidades de Desarrollo](capacidades-de-desarrollo.md)
 * [Capacidades Core](capacidades-core.md)
 * [Capacidades de Gobierno](capacidades-de-gobierno.md)
 * [Capacidades de Infraestructura](capacidades-de-infraestructura.md)
-
-
 

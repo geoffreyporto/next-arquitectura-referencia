@@ -22,8 +22,42 @@
   * [Servicio de Video Conferencia](capacidades-de-soporte/servicio-de-video-conferencia.md)
   * [Servicio de Atención al Cliente](capacidades-de-soporte/servicio-de-atencion-al-cliente.md)
   * [Servicio de OCR](capacidades-de-soporte/servicio-de-ocr.md)
+  * Servicio de Geolocalización
 * [Capacidades de Desarrollo](capacidades-de-desarrollo.md)
+  * Kit de Desarrollo Core Bancario
+
+  * Kit de Desarrollo Core Aplicativo
+
+  * Lenguajes & Frameworks
+
+  * Seguridad
+
+  * SDKs/Librerías
+
+  * Protocolos de comunicación
+
+  * Middleware
+
+  * Debugger/Profiler
+
+  * Buildding
+
+  * Gestor de Paquetes
+
+  * Pruebas
+
+  * Web Services & Apis
+
+  * Datos \(I/O\)
+
+  * Despliegue
+
+  * Monitoreo & Logs
+
+  * Notificaciones
 * [Capacidades Core](capacidades-core.md)
 * [Capacidades de Gobierno](capacidades-de-gobierno.md)
 * [Capacidades de Infraestructura](capacidades-de-infraestructura.md)
+
+
 

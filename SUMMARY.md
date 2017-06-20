@@ -22,7 +22,7 @@
   * [Servicio de Video Conferencia](capacidades-de-soporte/servicio-de-video-conferencia.md)
   * [Servicio de Atención al Cliente](capacidades-de-soporte/servicio-de-atencion-al-cliente.md)
   * [Servicio de OCR](capacidades-de-soporte/servicio-de-ocr.md)
-  * Servicio de Geolocalización
+  * [Servicio de Geolocalización](capacidades-de-soporte/servicio-de-geolocalizacion.md)
 * [Capacidades de Desarrollo](capacidades-de-desarrollo.md)
   * [Kit de Desarrollo Core Bancario](capacidades-de-desarrollo/kit-de-desarrollo-core-bancario.md)
   * [Kit de Desarrollo Core Aplicativo](capacidades-de-desarrollo/kit-de-desarrollo-core-aplicativo.md)
@@ -42,60 +42,31 @@
   * [Notificaciones](capacidades-de-desarrollo/notificaciones.md)
   * [Metricas](capacidades-de-desarrollo/metricas.md)
 * [Capacidades Core](capacidades-core.md)
-
-  * Interfaces de usuario
-
-  * Servicio de API Gateway
-
-  * Servicio de Seguridad
-
-  * Servicio de Acceso a Datos APIs/EndPoints
-
-  * Definición de Capacidades de Negocio
-
-  * Servicio de Event Sourcing y CQRS
-
-  * Almacenamiento & Cache de datos
-
-  * Protocolos de comunicación
-
+  * [Interfaces de usuario](capacidades-core/interfaces-de-usuario.md)
+  * [Servicio de API Gateway](capacidades-core/servicio-de-api-gateway.md)
+  * [Servicio de Seguridad](capacidades-core/servicio-de-seguridad.md)
+  * [Servicio de Acceso a Datos APIs/EndPoints](capacidades-core/servicio-de-acceso-a-datos-apisendpoints.md)
+  * [Definición de Capacidades de Negocio](capacidades-core/definicion-de-capacidades-de-negocio.md)
+  * [Servicio de Event Sourcing y CQRS](capacidades-core/servicio-de-event-sourcing-y-cqrs.md)
+  * [Almacenamiento & Cache de datos](capacidades-core/almacenamiento-and-cache-de-datos.md)
+  * [Protocolos de comunicación](capacidades-core/protocolos-de-comunicacion.md)
 * [Capacidades de Gobierno](capacidades-de-gobierno.md)
-
-  * Cultura y Procesos DevOps/Lean/Agile
-
-  * Metodologia Desarrollo Seguro
-
-  * Gobierno de Datos
-
-  * Gobierno de Seguridad
-
-  * Herramientas DevOps/Lean/Agile
-
-  * Repositorios de Microservicios
-
-  * Repositorios de Dockers
-
-  * Documentación de Apis, SDK, Libs & Microservicios
-
-  * Portal del Desarrollador DevOps
-
-  * Wiki normativo
-
-  * Documento de Arquitectura de Referencia Tecnológica
-
-  * Auditoria & Regulaciones
-
+  * [Cultura y Procesos DevOps/Lean/Agile](capacidades-de-gobierno/cultura-y-procesos-devopsleanagile.md)
+  * [Metodologia Desarrollo Seguro](capacidades-de-gobierno/metodologia-desarrollo-seguro.md)
+  * [Gobierno de Datos](capacidades-de-gobierno/gobierno-de-datos.md)
+  * [Gobierno de Seguridad](capacidades-de-gobierno/gobierno-de-seguridad.md)
+  * [Herramientas DevOps/Lean/Agile](capacidades-de-gobierno/herramientas-devopsleanagile.md)
+  * [Repositorios de Microservicios](capacidades-de-gobierno/repositorios-de-microservicios.md)
+  * [Repositorios de Dockers](capacidades-de-gobierno/repositorios-de-dockers.md)
+  * [Documentación de Apis, SDK, Libs & Microservicios](capacidades-de-gobierno/documentacion-de-apis-sdk-libs-and-microservicios.md)
+  * [Portal del Desarrollador DevOps](capacidades-de-gobierno/portal-del-desarrollador-devops.md)
+  * [Wiki normativo](capacidades-de-gobierno/wiki-normativo.md)
+  * [Documento de Arquitectura de Referencia Tecnológica](capacidades-de-gobierno/documento-de-arquitectura-de-referencia-tecnologica.md)
+  * [Auditoria & Regulaciones](capacidades-de-gobierno/auditoria-and-regulaciones.md)
 * [Capacidades de Infraestructura](capacidades-de-infraestructura.md)
-
-  * Infraestructura como Servicio \(IaaS\)
-
-  * Plataforma como Servicio \(PaaS\)
-
-  * Dockers y Máquinas Virtuales
-
-  * Control de Cluster, DRP y Provisionamiento
-
-  * Gestión de S-SDLC
-
-
+  * [Infraestructura como Servicio \(IaaS\)](capacidades-de-infraestructura/infraestructura-como-servicio-iaas.md)
+  * [Plataforma como Servicio \(PaaS\)](capacidades-de-infraestructura/plataforma-como-servicio-paas.md)
+  * [Dockers y Máquinas Virtuales](capacidades-de-infraestructura/dockers-y-maquinas-virtuales.md)
+  * [Control de Cluster, DRP y Provisionamiento](capacidades-de-infraestructura/control-de-cluster-drp-y-provisionamiento.md)
+  * [Gestión de S-SDLC](capacidades-de-infraestructura/gestion-de-s-sdlc.md)
 

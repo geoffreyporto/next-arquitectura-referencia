@@ -68,6 +68,7 @@
   * [Documento de Arquitectura de Referencia Tecnológica](capacidades-de-gobierno/documento-de-arquitectura-de-referencia-tecnologica.md)
   * [Auditoria & Regulaciones](capacidades-de-gobierno/auditoria-and-regulaciones.md)
 * [Capacidades de Infraestructura](capacidades-de-infraestructura.md)
+
   * [Infraestructura como Servicio \(IaaS\)](capacidades-de-infraestructura/infraestructura-como-servicio-iaas.md)
   * [Plataforma como Servicio \(PaaS\)](capacidades-de-infraestructura/plataforma-como-servicio-paas.md)
   * [Dockers y Máquinas Virtuales](capacidades-de-infraestructura/dockers-y-maquinas-virtuales.md)
@@ -75,6 +76,7 @@
   * [Gestión de S-SDLC](capacidades-de-infraestructura/gestion-de-s-sdlc.md)[Capacidades de Gobierno](#)
 
 * Referencias biograficas
+
   * Tecnologias
   * Patrones
 

@@ -14,8 +14,9 @@
 
 4. Instalación de Angular
 
-* Instale Atom IDE
-* Instalando plugin de Typscript en Atom: atom-typescript
+5. Instale Atom IDE
+
+6. Instalando plugin de Typscript en Atom: atom-typescript
 
 ![](/assets/screenshot_typescript_plugin_install_on_atom.png)
 

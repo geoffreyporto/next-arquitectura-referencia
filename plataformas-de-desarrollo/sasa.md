@@ -10,13 +10,9 @@
 
       * `npm install -g @angular/cli`
 
-      * 
+1. Instale Atom IDE
 
-4. Instalación de Angular
-
-5. Instale Atom IDE
-
-6. Instalando plugin de Typscript en Atom: atom-typescript
+2. Instalando plugin de Typscript en Atom: atom-typescript
 
 ![](/assets/screenshot_typescript_plugin_install_on_atom.png)
 

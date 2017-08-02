@@ -6,9 +6,20 @@
       * `sudo npm install nodejs`
 3. Instalación de Angular 2/4
 
-   1. Instalación de Angular
+   1. Instalación de Angular CLI
 
-      * `sudo npm install nodejs`
+      * `npm install -g @angular/cli`
 
+      * 
 
+4. Instalación de Angular
+
+* Instale Atom IDE
+* Instalando plugin de Typscript en Atom: atom-typescript
+
+![](/assets/screenshot_typescript_plugin_install_on_atom.png)
+
+* Instalando el plugin de atom-beautify
+
+![](/assets/screenshots_atom_install_plugin_atom-beautify.png)
 

@@ -48,7 +48,15 @@
 
 `sudo ng build --prod`
 
-Publicando para producción
+**Publicando para producción**
 
 `sudo ng serve --prod`
+
+* Genera la carpeta dist
+
+![](/assets/screehshot_folder_after_build_prod.png)
+
+
+
+
 

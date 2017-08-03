@@ -22,15 +22,19 @@
 
 ![](/assets/screenshots_atom_install_plugin_atom-beautify.png)
 
-1. Generando proyecto básico en Angular
+5. Generando proyecto básico en Angular
 
-2. Creando proyecto
+* Creando proyecto
 
 `sudo  ng new test1`
 
 nota: no se puede crear proyectos con nombre "test", que empiece con numeros.
 
 ![](/assets/screeshots_projects_name_invalids.png)
+
+* Carpetas de proyecto:
+
+![](/assets/screenshots_folder_project_test1.png)
 
 **nota:** dado caso que quieras establecer Yarn como package manager: `ng set --global packageManager=yarn`
 

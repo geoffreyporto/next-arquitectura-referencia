@@ -12,9 +12,10 @@
       * Parametro "-g": instalación glocal
       * @angular/cli
 
-4. Instale Atom IDE
+4. Instalando Atom IDE y Plygin
 
-   1. Instalando plugin de Typscript en Atom: atom-typescript
+   * Instalando los plugins de Atom : atom-typescript, linter, editorconfig, fileicons \(https://denisvuyka.github.io/2016/05/29/angular2-atom-quickstart.html\)
+   * Typscript en Atom: atom-typescript
 
 ![](/assets/screenshot_typescript_plugin_install_on_atom.png)
 
@@ -53,8 +54,6 @@
 `sudo ng serve --prod`
 
 * Genera la carpeta dist
-
-
 
 **Publicando para producción**
 

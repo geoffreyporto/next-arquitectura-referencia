@@ -6,7 +6,7 @@
       * `sudo npm install nodejs`
 3. Instalación de Angular 2/4
 
-   1. Instalación de Angular CLI
+   1. Instalación de Angular CLI \(Comand Line Interface\)
 
       * `npm install -g @angular/cli`
 
@@ -22,7 +22,7 @@
 
 1. Generando proyecto básico en Angular
 
-* Creando proyecto 
+2. Creando proyecto
 
 `sudo  ng new test1`
 
@@ -31,6 +31,4 @@
 * Ejecutando servidor web
 
 `ng server`
-
-
 

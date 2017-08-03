@@ -48,5 +48,7 @@
 
 `sudo ng build --prod`
 
+Publicando para producción
 
+`sudo ng serve --prod`
 

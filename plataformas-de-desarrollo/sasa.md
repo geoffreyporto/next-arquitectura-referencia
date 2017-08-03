@@ -6,7 +6,7 @@
       * `sudo npm install nodejs`
 3. Instalación de Angular 2/4
 
-   1. Instalación de Angular CLI \(Comand Line Interface\)
+   1. Instalación de Angular CLI \(Comand Line Interface basado en el Ember.js\)
 
       * `npm install -g @angular/cli`
 

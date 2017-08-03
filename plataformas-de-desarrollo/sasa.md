@@ -10,13 +10,25 @@
 
       * `npm install -g @angular/cli`
 
-1. Instale Atom IDE
+4. Instale Atom IDE
 
-2. Instalando plugin de Typscript en Atom: atom-typescript
+   1. Instalando plugin de Typscript en Atom: atom-typescript
 
 ![](/assets/screenshot_typescript_plugin_install_on_atom.png)
 
 * Instalando el plugin de atom-beautify
 
 ![](/assets/screenshots_atom_install_plugin_atom-beautify.png)
+
+6. Generando proyecto básico en Angular
+
+sudo  ng new test1
+
+**nota:** dado caso que quieras establecer Yarn como package manager: `ng set --global packageManager=yarn`
+
+
+
+
+
+
 

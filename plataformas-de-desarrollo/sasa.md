@@ -20,15 +20,17 @@
 
 ![](/assets/screenshots_atom_install_plugin_atom-beautify.png)
 
-6. Generando proyecto básico en Angular
+1. Generando proyecto básico en Angular
 
-sudo  ng new test1
+* Creando proyecto 
+
+`sudo  ng new test1`
 
 **nota:** dado caso que quieras establecer Yarn como package manager: `ng set --global packageManager=yarn`
 
+* Ejecutando servidor web
 
-
-
+`ng server`
 
 
 

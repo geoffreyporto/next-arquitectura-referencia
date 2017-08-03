@@ -22,7 +22,7 @@
 
 ![](/assets/screenshots_atom_install_plugin_atom-beautify.png)
 
-Generando proyecto básico en Angular
+5. Generando proyecto básico en Angular
 
 Creando proyecto
 

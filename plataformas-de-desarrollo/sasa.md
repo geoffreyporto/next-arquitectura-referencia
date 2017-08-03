@@ -9,6 +9,8 @@
    1. Instalación de Angular CLI \(Comand Line Interface basado en el Ember.js\)
 
       * `npm install -g @angular/cli`
+      * Parametro "-g": instalación glocal
+      * @angular/cli
 
 4. Instale Atom IDE
 
@@ -25,6 +27,10 @@
 2. Creando proyecto
 
 `sudo  ng new test1`
+
+nota: no se puede crear proyectos con nombre "test", que empiece con numeros.
+
+![](/assets/screeshots_projects_name_invalids.png)
 
 **nota:** dado caso que quieras establecer Yarn como package manager: `ng set --global packageManager=yarn`
 

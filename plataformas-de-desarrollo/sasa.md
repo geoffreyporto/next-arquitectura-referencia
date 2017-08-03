@@ -22,9 +22,9 @@
 
 ![](/assets/screenshots_atom_install_plugin_atom-beautify.png)
 
-5. Generando proyecto básico en Angular
+Generando proyecto básico en Angular
 
-* Creando proyecto
+Creando proyecto
 
 `sudo  ng new test1`
 

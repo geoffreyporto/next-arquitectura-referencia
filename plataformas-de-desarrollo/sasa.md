@@ -22,13 +22,13 @@
 
 ![](/assets/screenshots_atom_install_plugin_atom-beautify.png)
 
-Generando proyecto básico en Angular
+**Generando proyecto básico en Angular**
 
-Creando proyecto
+* Creando proyecto
 
 `sudo  ng new test1`
 
-nota: no se puede crear proyectos con nombre "test", que empiece con numeros.
+**nota:** no se puede crear proyectos con nombre "test", que empiece con numeros.
 
 ![](/assets/screeshots_projects_name_invalids.png)
 

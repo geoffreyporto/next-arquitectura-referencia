@@ -42,3 +42,11 @@
 
 `ng server`
 
+**Compilando proyecto **
+
+* Compilación para producción
+
+`sudo ng build --prod`
+
+
+

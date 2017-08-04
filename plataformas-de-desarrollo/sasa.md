@@ -79,5 +79,22 @@
   * `mkdir public`
     ![](/assets/screen_project_folders_app.png)
 
+Creando componente de Autenticación
+
+* Creando componente
+  * `ng generate component project-list`
+
+  Resultado:
+  * `installing component  `
+    `  create src/app/private/project-list/project-list.component.css             `
+    `  create src/app/private/project-list/project-list.component.html           `
+    `  create src/app/private/project-list/project-list.component.spec.ts      `
+    `  create src/app/private/project-list/project-list.component.ts               `
+    `  update src/app/app.module.ts`
+
+  ![](/assets/screenshot_project-list.png)
+
+
+
 
 

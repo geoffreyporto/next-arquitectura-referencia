@@ -14,7 +14,7 @@
 
 4. Instalando Atom IDE y Plygin
 
-   * Instalando los plugins de Atom : atom-typescript, linter, editorconfig, fileicons \(https://denisvuyka.github.io/2016/05/29/angular2-atom-quickstart.html\)
+   * Instalando los plugins de Atom : atom-typescript, linter, editorconfig, fileicons \([https://denisvuyka.github.io/2016/05/29/angular2-atom-quickstart.html\](https://denisvuyka.github.io/2016/05/29/angular2-atom-quickstart.html\)\)
    * Typscript en Atom: atom-typescript
 
 ![](/assets/screenshot_typescript_plugin_install_on_atom.png)
@@ -22,6 +22,10 @@
 * Instalando el plugin de atom-beautify
 
 ![](/assets/screenshots_atom_install_plugin_atom-beautify.png)
+
+**Nota: **Posiblementa al modificar tu codigo fuente vas a requerir instalar dependencias de atom-typescript
+
+![](/assets/atom_plugin_linter_install_dep.png)
 
 **Generando proyecto básico en Angular**
 

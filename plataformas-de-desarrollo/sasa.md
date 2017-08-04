@@ -97,21 +97,24 @@ Creando componente de Autenticación
   ![](/assets/screenshot_project-list.png)
 
 * Creando componente header
+
   * ng generate component header
 
   Resultado:
 
-  * installing component                                                     
+  * installing component
 
-    `  create src/app/common/header/header.component.css`
+    `create src/app/common/header/header.component.css`
 
-    `  create src/app/common/header/header.component.htmlloader!./src/styleshe`
+    `create src/app/common/header/header.component.htmlloader!./src/styleshe`
 
-    `  create src/app/common/header/header.component.spec.ts`
+    `create src/app/common/header/header.component.spec.ts`
 
-    `  create src/app/common/header/header.component.ts  `
+    `create src/app/common/header/header.component.ts`
 
-    `  update src/app/app.module.ts`
+    `update src/app/app.module.ts`
+
+  ![](/assets/screenshot_project_folder_private.png)
 
 
 

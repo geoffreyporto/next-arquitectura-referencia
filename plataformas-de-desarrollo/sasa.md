@@ -81,20 +81,37 @@
 
 Creando componente de Autenticación
 
-* Creando componente
+* Creando componente project-list
+
   * `ng generate component project-list`
 
   Resultado:
-  * `installing component  `
-    `  create src/app/private/project-list/project-list.component.css             `
-    `  create src/app/private/project-list/project-list.component.html           `
-    `  create src/app/private/project-list/project-list.component.spec.ts      `
-    `  create src/app/private/project-list/project-list.component.ts               `
-    `  update src/app/app.module.ts`
+
+  * `installing component`
+    `create src/app/private/project-list/project-list.component.css`
+    `create src/app/private/project-list/project-list.component.html`
+    `create src/app/private/project-list/project-list.component.spec.ts`
+    `create src/app/private/project-list/project-list.component.ts`
+    `update src/app/app.module.ts`
 
   ![](/assets/screenshot_project-list.png)
 
+* Creando componente header
+  * ng generate component header
 
+  Resultado:
+
+  * installing component                                                     
+
+    `  create src/app/common/header/header.component.css`
+
+    `  create src/app/common/header/header.component.htmlloader!./src/styleshe`
+
+    `  create src/app/common/header/header.component.spec.ts`
+
+    `  create src/app/common/header/header.component.ts  `
+
+    `  update src/app/app.module.ts`
 
 
 

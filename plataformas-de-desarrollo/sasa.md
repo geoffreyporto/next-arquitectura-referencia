@@ -14,7 +14,7 @@
 
 4. Instalando Atom IDE y Plygin
 
-   * Instalando los plugins de Atom : atom-typescript, linter, editorconfig, fileicons \([https://denisvuyka.github.io/2016/05/29/angular2-atom-quickstart.html\](https://denisvuyka.github.io/2016/05/29/angular2-atom-quickstart.html\)\)
+   * Instalando los plugins de Atom : atom-typescript, linter, editorconfig, fileicons \([https://denisvuyka.github.io/2016/05/29/angular2-atom-quickstart.html\](https://denisvuyka.github.io/2016/05/29/angular2-atom-quickstart.html%29\)
    * Typscript en Atom: atom-typescript
 
 ![](/assets/screenshot_typescript_plugin_install_on_atom.png)
@@ -31,7 +31,7 @@
 
 * Creando proyecto
 
-`sudo  ng new test1`
+`sudo  ng new bitfy`
 
 **nota:** no se puede crear proyectos con nombre "test", que empiece con numeros.
 
@@ -66,4 +66,18 @@
 * Genera la carpeta dist
 
 ![](/assets/screehshot_folder_after_build_prod.png)
+
+** Creando carpetas de proyecto**
+
+`cd src/app`
+
+* Carpeta src/app/private: contenido para usuarios autenticados
+  * `mkdir private`
+* Carpeta src/app/common: contenido para compartir a toda la aplicación
+  * `mkdir common`
+* Carpeta src/app/public: contenido para todo el publico
+  * `mkdir public`
+    ![](/assets/screen_project_folders_app.png)
+
+
 

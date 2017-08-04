@@ -118,5 +118,7 @@ Creando componente de Autenticación
 
   ![](/assets/screenshot_project_folder_header.png)
 
+nota: Algunos errores comunes para los paths invalidos:![](/assets/screenshots_paths_invalid.png)Posterior a la compilación:
 
+![](/assets/screenshots_errors_ng.png)
 
